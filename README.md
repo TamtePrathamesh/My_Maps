@@ -1,4 +1,4 @@
-# part1
+# My Maps
 
 A new Flutter project.
 
